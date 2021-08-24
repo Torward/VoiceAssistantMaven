@@ -1,0 +1,4 @@
+open chrome
+close chrome
+otkroiy chrome
+zacroiy chrome
